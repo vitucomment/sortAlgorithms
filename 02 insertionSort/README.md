@@ -35,6 +35,6 @@
 .
 .
 .
-Referencias:
-https://www.geeksforgeeks.org/insertion-sort/
-https://pt.wikipedia.org/wiki/Insertion_sort
+###### Referencias:
+    • https://www.geeksforgeeks.org/insertion-sort/
+    • https://pt.wikipedia.org/wiki/Insertion_sort

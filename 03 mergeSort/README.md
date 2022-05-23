@@ -43,8 +43,8 @@
 .
 .
 .
-Referencias:
-https://pt.wikipedia.org/wiki/Merge_sort
-https://en.wikipedia.org/wiki/Merge_sort#:~:text=In
-https://www.geeksforgeeks.org/merge-sort/
+###### Referencias:
+    • https://pt.wikipedia.org/wiki/Merge_sort
+    • https://en.wikipedia.org/wiki/Merge_sort#:~:text=In
+    • https://www.geeksforgeeks.org/merge-sort/
 

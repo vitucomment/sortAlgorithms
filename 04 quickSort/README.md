@@ -43,7 +43,7 @@
 .
 .
 .
-Referencias:
-https://pt.wikipedia.org/wiki/Quicksort
-https://pt.khanacademy.org/computing/computer-science/algorithms/quick-sort/a/overview-of-quicksort
-https://www.geeksforgeeks.org/quick-sort/
+###### Referencias:
+    • https://pt.wikipedia.org/wiki/Quicksort
+    • https://pt.khanacademy.org/computing/computer-science/algorithms/quick-sort/a/overview-of-quicksort
+    • https://www.geeksforgeeks.org/quick-sort/

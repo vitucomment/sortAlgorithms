@@ -38,6 +38,6 @@
 .
 .
 .
-Refererência:
-https://www.geeksforgeeks.org/selection-sort/
-https://pt.wikipedia.org/wiki/Selection_sort
+###### Refererência:
+    • https://www.geeksforgeeks.org/selection-sort/
+    • https://pt.wikipedia.org/wiki/Selection_sort

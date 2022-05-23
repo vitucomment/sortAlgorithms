@@ -31,11 +31,11 @@
 .
 .
 .
-Referencias:
-https://pt.wikipedia.org/wiki/Algoritmo_de_ordena%C3%A7%C3%A3o
-https://pt.stackoverflow.com/questions/188646/o-que-define-um-algoritmo-de-ordena%C3%A7%C3%A3o-est%C3%A1vel
-https://pt.wikipedia.org/wiki/Ordena%C3%A7%C3%A3o_est%C3%A1vel
-https://pt.wikipedia.org/wiki/Selection_sort
-https://pt.wikipedia.org/wiki/Insertion_sort
-https://pt.wikipedia.org/wiki/Merge_sort
-https://pt.wikipedia.org/wiki/Quicksort
+###### Referencias:
+    • https://pt.wikipedia.org/wiki/Algoritmo_de_ordena%C3%A7%C3%A3o
+    • https://pt.stackoverflow.com/questions/188646/o-que-define-um-algoritmo-de-ordena%C3%A7%C3%A3o-est%C3%A1vel
+    • https://pt.wikipedia.org/wiki/Ordena%C3%A7%C3%A3o_est%C3%A1vel
+    • https://pt.wikipedia.org/wiki/Selection_sort
+    • https://pt.wikipedia.org/wiki/Insertion_sort
+    • https://pt.wikipedia.org/wiki/Merge_sort
+    • https://pt.wikipedia.org/wiki/Quicksort
