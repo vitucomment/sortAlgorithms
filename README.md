@@ -6,12 +6,12 @@
 
 ###### • Para melhor entendimento dos algoritmos, como e onde implementa-los, é necessário saber dessas características, pois o consumo de memória do computador pode ser comprometido ao tentar ordenar arrays utilizando um algoritmo que não se adequa a necessidade do usuário.
 
-###### ♦ Leia sobre complexidade: 
-    https://pt.stackoverflow.com/questions/33319/o-que-%C3%A9-a-complexidade-de-um-algoritmo
-###### ♦ Leia sobre estabilidade: 
-    https://www.ime.usp.br/~leo/mac/mac122/algoritmos_ordenacao_estaveis.html
-###### ♦ Método sort JS:
-    https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+###### ♦ [Leia sobre complexidade](https://pt.stackoverflow.com/questions/33319/o-que-%C3%A9-a-complexidade-de-um-algoritmo): 
+
+###### ♦ [Leia sobre estabilidade](https://www.ime.usp.br/~leo/mac/mac122/algoritmos_ordenacao_estaveis.html): 
+    
+###### ♦ [Método sort JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort):
+    
 
 ### Como usar
 #### Os métodos foram escritos em JavaScript, mas sua lógica de funcionamento é igual para qualquer linguagem
